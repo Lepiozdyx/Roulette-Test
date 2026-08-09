@@ -313,9 +313,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Roulette Test";
-				INFOPLIST_KEY_NSCameraUsageDescription = "You can allow access to the camera to take photos and videos.";
-				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "You can allow access to the photo library to save photos and videos.";
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Your permission helps us measure which advertising campaigns led to app installs and evaluate marketing performance.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo library access lets you select an image to use as your profile picture.";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Allow tracking to help us measure advertising campaign performance and understand which campaigns led to app installs.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
@@ -351,9 +350,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Roulette Test";
-				INFOPLIST_KEY_NSCameraUsageDescription = "You can allow access to the camera to take photos and videos.";
-				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "You can allow access to the photo library to save photos and videos.";
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Your permission helps us measure which advertising campaigns led to app installs and evaluate marketing performance.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Photo library access lets you select an image to use as your profile picture.";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Allow tracking to help us measure advertising campaign performance and understand which campaigns led to app installs.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
